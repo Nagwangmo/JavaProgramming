@@ -1,0 +1,40 @@
+1. Type Casting
+2. String Practices
+
+1. How many kinds of Type Casting?
+there are 2 types of type casting
+
+a.Implicit Casting
+- automatic. it is done by compiler.
+- smaller to bigger datatype
+- No loss data.
+
+b.Explicit Casting
+- Manually. It is done by developer
+- Bigger to smaller.
+- we lose data.
+
+double a=5.3;
+int b=(int)a;
+
+double a=5;
+int b=(int)a;
+
+String Methods:
+charAT();
+length();
+replace();
+replaceFirst();
+trim();
+substring();
+lastIndexPf();
+contains();
+repeat();
+endsWith();
+isEmpty(); //
+isBlank();
+toUpperCase();
+toLowerCase();
+
+
+
